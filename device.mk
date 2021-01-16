@@ -52,9 +52,6 @@ PRODUCT_PACKAGES += \
 	android.hardware.ir@1.0-impl \
 	android.hardware.ir@1.0-service
 
-# Device properties
-$(call inherit-product, $(DEVICE_PATH)/device_prop.mk)
-
 # FM
 BOARD_HAVE_QCOM_FM := true
 
