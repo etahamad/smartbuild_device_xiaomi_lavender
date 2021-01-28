@@ -88,9 +88,6 @@ sys.tianma_nt36672_length=46
 persist.vendor.iwlan.enable=true
 persist.vendor.radio.data_con_rprt=1
 
-# Display Cutout
-ro.potato.has_cutout=true
-
 # Gboard
 ro.com.google.ime.kb_pad_port_b=1
 ro.com.google.ime.corner_key_r=32
